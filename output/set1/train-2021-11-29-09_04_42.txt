@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "./src/main.py", line 120, in <module>
-    seqlen = runner.dataload(args)
-  File "./src/main.py", line 64, in dataload
-    ret1, ret2, ret3 = DM.target_load()
-  File "/home/kwlee/Projects_gflas/Team_BI/Projects/MSC-GRU/src/data/data_manager.py", line 52, in target_load
-    data = pickle.load(open(self.target_file, "rb"))
-TypeError: expected str, bytes or os.PathLike object, not list
