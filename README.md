@@ -1,2 +1,3 @@
-# Hierarchical-LSTM-Attn
-Crispr efficiency prediction using Hierarchical LSTM and Attention Network
+Analysis of DNA sequence
+- How to use : Crispr efficiency prediction, DNA/RNA motif mining
+- Methods : Hierarchical LSTM and Attention Network
